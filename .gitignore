@@ -1,3 +1,11 @@
 node_modules/
 .env
+.env.local
 SOLUCION_ERRORES.md
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
